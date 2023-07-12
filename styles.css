@@ -396,6 +396,10 @@ main .recent-orders a {
   color: var(--color-primary);
 }
 
+main .details {
+  cursor: pointer;
+}
+
 /* ============================ RIGHT ================================ */
 
 .right {

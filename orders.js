@@ -24,7 +24,7 @@ const Orders = [
         shipping: 'Delivered'
     },
     {
-        productName: 'Ideaforge Mini Drone with cam',
+        productName: 'Ideaforge Mini Drone',
         productNumber: '67356',
         paymentStatus: 'Due',
         shipping: 'Pending'

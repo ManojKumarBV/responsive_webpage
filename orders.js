@@ -18,20 +18,20 @@ const Orders = [
         shipping: 'Pending'
     },
     {
-        productName: 'FRuko F11 Pro Drone',
-        productNumber: '87531',
+        productName: 'Fruko F11 Pro Drone',
+        productNumber: '97331',
         paymentStatus: 'Paid',
         shipping: 'Delivered'
     },
     {
-        productName: 'Foldable Mini Drone',
-        productNumber: '87531',
+        productName: 'Ideaforge Mini Drone with cam',
+        productNumber: '67356',
         paymentStatus: 'Due',
         shipping: 'Pending'
     },
     {
-        productName: 'Foldable Mini Drone',
-        productNumber: '87531',
+        productName: 'Drone Pro 2',
+        productNumber: '58741',
         paymentStatus: 'Paid',
         shipping: 'Pending'
     },
